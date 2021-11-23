@@ -1,0 +1,9 @@
+LIBRARY  SAHAIN
+
+
+EXPORTS
+
+	Dll_FileRead
+	Dll_Average
+	
+	
